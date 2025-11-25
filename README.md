@@ -36,9 +36,12 @@
       🎓 <strong>SheFi Scholar – Season 13</strong><br/>
       📚 Worked on <strong>sustainable tech, AI algorithms, green computing & ESG-focused systems</strong></p>
     </td>
-    <td width="45%" valign="top">
-      <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=OshiSharma1222&theme=radical" alt="Oshi's GitHub Stats" />
-    </td>
+    <td width="100%" valign="center">
+  <div align="center">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=OshiSharma1222&theme=radical" alt="Oshi's GitHub Stats" />
+  </div>
+</td>
+
   </tr>
 </table>
 
