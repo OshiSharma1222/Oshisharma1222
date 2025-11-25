@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://media4.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" alt="computer working"/>
+  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExajB1MDkzc214cDZkbXJ6NWZjN2I3amYzNmxkb2w5ejgwdHc1amU1ayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/hpXdHPfFI5wTABdDx9/giphy.gif" alt="computer working" height="340"/>
 </p>
 
 
