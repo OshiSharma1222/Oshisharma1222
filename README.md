@@ -45,14 +45,6 @@
   </tr>
 </table>
 
-## 📊 GitHub Contributions
-
-<p align="center">
-  <img src="https://ghchart.rshah.org/OshiSharma1222" alt="GitHub Contribution Graph"/>
-</p>
-
----
-
 ##  Skills
 
 ### 🎨 Frontend
