@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <img height="180" src="https://github-readme-streak-stats.herokuapp.com/?user=OshiSharma1222&theme=radical&hide_border=true" />
+  <img height="180" src="https://github-readme-streak-stats-eight.vercel.app/?user=OshiSharma1222&theme=radical&hide_border=true" />
 </p>
 
 <p align="center">
