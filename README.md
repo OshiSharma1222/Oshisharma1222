@@ -102,14 +102,6 @@ Tech-agnostic. Context-first. Results-driven.
   <img src="https://streak-stats.demolab.com/?user=OshiSharma1222&background=1E1E2E&ring=CBA6F7&fire=F5C2E7&currStreakLabel=CBA6F7&sideLabels=CBA6F7&currStreakNum=CDD6F4&sideNums=CDD6F4&dates=A6ADC8&stroke=45475A&hide_border=true" alt="GitHub streak" />
 </p>
 
-<p align="center">
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=OshiSharma1222&bg_color=1E1E2E&color=CBA6F7&line=CBA6F7&point=F5C2E7&area=true&area_color=CBA6F7&title_color=CBA6F7&hide_border=true" alt="Contribution activity graph" />
-</p>
-
-<p align="center">
-  <img width="100%" src="https://raw.githubusercontent.com/OshiSharma1222/Oshisharma1222/output/github-snake-dark.svg" alt="Snake eating my contribution graph" />
-</p>
-
 ## `~$ ping oshi`
 
 <p>
