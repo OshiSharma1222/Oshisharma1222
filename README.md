@@ -1,10 +1,10 @@
 <p align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:F5C2E7,50:CBA6F7,100:89B4FA&height=140&section=header" alt="" />
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:F5C2E7,50:CBA6F7,100:89B4FA&height=70&section=header" alt="" />
 </p>
 
 <p align="center">
   <a href="https://github.com/OshiSharma1222">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=42&duration=3200&pause=1200&color=CBA6F7&center=true&vCenter=true&width=800&height=80&lines=Oshi+Sharma;Full-stack+%2B+AI+engineer;Open+source+contributor;Building+AI+agents+and+voice+AI" alt="Oshi Sharma" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3200&pause=1200&color=CBA6F7&center=true&vCenter=true&width=600&height=40&lines=Oshi+Sharma;Full-stack+%2B+AI+engineer;Open+source+contributor;Building+AI+agents+and+voice+AI" alt="Oshi Sharma" />
   </a>
 </p>
 
@@ -97,5 +97,5 @@
 </p>
 
 <p align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:89B4FA,50:CBA6F7,100:F5C2E7&height=120&section=footer" alt="" />
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:89B4FA,50:CBA6F7,100:F5C2E7&height=60&section=footer" alt="" />
 </p>
