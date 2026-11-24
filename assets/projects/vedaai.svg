@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="280" height="150" viewBox="0 0 280 150" role="img" aria-label="VedaAI: Reads and grades handwritten answer sheets with feedback.">
+  <style>
+    text { font-family: 'Fira Code', 'JetBrains Mono', 'DejaVu Sans Mono', Consolas, 'Courier New', monospace; fill: #CDD6F4; }
+    .m { fill: #CBA6F7; } .pk { fill: #F5C2E7; } .b { fill: #89B4FA; } .d { fill: #6C7086; }
+    .sub { fill: #A6ADC8; } .bold { font-weight: 700; } .it { font-style: italic; }
+    .cursor { animation: blink 1s steps(1) infinite; }
+    @keyframes blink { 50% { fill-opacity: 0; } }
+  </style>
+  <rect x="1" y="1" width="278" height="148" rx="12" fill="#1E1E2E" stroke="#45475A"/>
+  <rect x="1" y="1" width="278" height="5" rx="2.5" fill="#89B4FA"/>
+  <rect x="18" y="20" width="64" height="18" rx="9" fill="#313244"/>
+  <text x="27" y="33" font-size="11" font-weight="700" fill="#89B4FA">AI DOCS</text>
+  <text x="18" y="62" font-size="17" font-weight="700" fill="#CBA6F7">VedaAI</text>
+  <text x="18" y="86" font-size="13">Reads and grades handwritten</text><text x="18" y="106" font-size="13">answer sheets with feedback.</text>
+  <text x="18" y="134" font-size="11.5" class="d">Gemini, pdf.js, Next.js</text>
+  <text x="262" y="134" font-size="13" font-weight="700" text-anchor="end" fill="#89B4FA">open &gt;</text>
+</svg>

@@ -12,24 +12,13 @@
   <img src="./assets/terminal.svg" width="860" alt="Terminal running neofetch: Oshi Sharma, full-stack and AI engineer, open source contributor" />
 </p>
 
-## `~$ whoami`
+<p><img src="./assets/headers/whoami.svg" alt="$ whoami" /></p>
 
-I'm **Oshi Sharma**, a full-stack engineer building **AI agents, voice AI and product-grade web apps**, mostly in TypeScript and Python.
+<p align="center">
+  <img src="./assets/about.svg" width="860" alt="Full-stack engineer building AI agents, voice AI and product-grade web apps, mostly in TypeScript and Python. Open source contributor to Jitsi Meet, OpenStreetMap (iD) and Accord Project. Hackathon Winner. SheFi Scholar, Season 13." />
+</p>
 
-- **Open source contributor** to Jitsi Meet, OpenStreetMap (iD) and Accord Project
-- **AI agents and voice AI**: tool-using LLM agents, MCP servers, real-time voice apps
-- **Full-stack products**: Next.js, Node, FastAPI, Postgres
-- **Applied ML**: model drift, entity resolution, anomaly detection
-
-**Hackathon Winner** &nbsp;|&nbsp; **SheFi Scholar, Season 13**
-
-> *"I always know how to find the answer, and I will."* (The Pursuit of Happiness)
-
-## `~$ ls ./skills`
-
-```text
-languages/   frontend/   backend/   ai-ml/   tools/
-```
+<p><img src="./assets/headers/skills.svg" alt="$ ls ./skills" /></p>
 
 <p>
 <img src="https://img.shields.io/badge/TypeScript-313244?style=for-the-badge&logo=typescript&logoColor=CBA6F7" alt="TypeScript" />
@@ -70,28 +59,31 @@ languages/   frontend/   backend/   ai-ml/   tools/
 <img src="https://img.shields.io/badge/Figma-313244?style=for-the-badge&logo=figma&logoColor=CBA6F7" alt="Figma" />
 </p>
 
-## `~$ ls ./projects`
+<p><img src="./assets/headers/projects.svg" alt="$ ls ./projects" /></p>
 
-- **Voice AI apps**: [Delphy](https://github.com/OshiSharma1222/Delphy), a voice sparring partner that only answers in questions, and [Imposter Interviewer](https://github.com/OshiSharma1222/Imposter-interviewer-), voice interview practice grounded in real interview reports
-- **AI document tools**: [UnderAI](https://github.com/OshiSharma1222/underai) for insurance policy audits, and [VedaAI](https://github.com/OshiSharma1222/Veda_AI_Assignment) for grading handwritten answer sheets
-- **Fintech systems**: [Recovery Ledger](https://github.com/OshiSharma1222/Recovery-ledger) decides which failed payments and disputes are worth chasing, tested against a control group
-- **ML reliability**: [ModelPulse](https://github.com/OshiSharma1222/ModelPlus) for data drift experiments, plus entity resolution and log anomaly detection pipelines
-- **Mobile and desktop apps**: Expo / React Native apps like [Tree Time](https://github.com/OshiSharma1222/Tree_Time), and [Wallup](https://github.com/OshiSharma1222/Wallup), a C# desktop to-do app
-- **Offline hardware**: [MuseMate](https://github.com/OshiSharma1222/MuseMate), an NFC museum guide for Smart India Hackathon 2026
+<p align="center">
+  <a href="https://github.com/OshiSharma1222/Delphy"><img src="./assets/projects/delphy.svg" width="32%" alt="Delphy: voice sparring partner that only answers in questions" /></a>
+  <a href="https://github.com/OshiSharma1222/Imposter-interviewer-"><img src="./assets/projects/imposter.svg" width="32%" alt="Imposter Interviewer: voice interview practice built on real interview reports" /></a>
+  <a href="https://github.com/OshiSharma1222/underai"><img src="./assets/projects/underai.svg" width="32%" alt="UnderAI: audits insurance policy PDFs against the placement slip" /></a>
+</p>
+<p align="center">
+  <a href="https://github.com/OshiSharma1222/Veda_AI_Assignment"><img src="./assets/projects/vedaai.svg" width="32%" alt="VedaAI: reads and grades handwritten answer sheets" /></a>
+  <a href="https://github.com/OshiSharma1222/Recovery-ledger"><img src="./assets/projects/recovery.svg" width="32%" alt="Recovery Ledger: decides which failed payments and disputes are worth chasing" /></a>
+  <a href="https://github.com/OshiSharma1222/ModelPlus"><img src="./assets/projects/modelpulse.svg" width="32%" alt="ModelPulse: drift lab for ML models" /></a>
+</p>
+<p align="center">
+  <a href="https://github.com/OshiSharma1222/Tree_Time"><img src="./assets/projects/treetime.svg" width="32%" alt="Tree Time: measures tree height with the phone tilt sensor" /></a>
+  <a href="https://github.com/OshiSharma1222/Wallup"><img src="./assets/projects/wallup.svg" width="32%" alt="Wallup: your wallpaper is your to-do list" /></a>
+  <a href="https://github.com/OshiSharma1222/MuseMate"><img src="./assets/projects/musemate.svg" width="32%" alt="MuseMate: offline NFC museum guide, Smart India Hackathon 2026" /></a>
+</p>
 
-## `~$ cat work-with-me.md`
+<p><img src="./assets/headers/work.svg" alt="$ cat work-with-me.md" /></p>
 
-- AI agents and voice AI features, from prototype to deployed app
-- Full-stack products with Next.js, Node and FastAPI
-- ML evaluation, data pipelines and model monitoring
-- Mobile apps with Expo and React Native
-- Open source collaboration and contributions
+<p align="center">
+  <img src="./assets/work.svg" width="860" alt="Work with me: AI agents and voice AI features, full-stack products, ML evaluation, mobile apps, open source. Give me a problem, idea, or goal, I will help architect it, break it down, and build it." />
+</p>
 
-Give me a **problem, idea, or goal**, I’ll help architect it, break it down, and build it.
-
-Tech-agnostic. Context-first. Results-driven.
-
-## `~$ git log --stats`
+<p><img src="./assets/headers/stats.svg" alt="$ git log --stats" /></p>
 
 <p align="center">
   <img height="170" src="https://github-readme-stats.vercel.app/api?username=OshiSharma1222&show_icons=true&hide_rank=true&custom_title=Oshi%27s%20GitHub%20Stats&bg_color=1E1E2E&title_color=CBA6F7&icon_color=CBA6F7&text_color=CDD6F4&ring_color=CBA6F7&hide_border=true" alt="GitHub stats" />
@@ -102,7 +94,7 @@ Tech-agnostic. Context-first. Results-driven.
   <img src="https://streak-stats.demolab.com/?user=OshiSharma1222&background=1E1E2E&ring=CBA6F7&fire=F5C2E7&currStreakLabel=CBA6F7&sideLabels=CBA6F7&currStreakNum=CDD6F4&sideNums=CDD6F4&dates=A6ADC8&stroke=45475A&hide_border=true" alt="GitHub streak" />
 </p>
 
-## `~$ ping oshi`
+<p><img src="./assets/headers/ping.svg" alt="$ ping oshi" /></p>
 
 <p>
 <a href="mailto:oshisharma2609@gmail.com"><img src="https://img.shields.io/badge/Email-313244?style=for-the-badge&logo=gmail&logoColor=CBA6F7" alt="Email" /></a>
@@ -110,9 +102,9 @@ Tech-agnostic. Context-first. Results-driven.
 <a href="https://x.com/oshisharma1222"><img src="https://img.shields.io/badge/X-313244?style=for-the-badge&logo=x&logoColor=CBA6F7" alt="X" /></a>
 </p>
 
-```bash
-oshi@github:~$ echo "Thanks for stopping by, let's build something meaningful!"
-```
+<p align="center">
+  <img src="./assets/bye.svg" width="860" alt="Thanks for stopping by, let's build something meaningful!" />
+</p>
 
 <p align="center">
   <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:89B4FA,50:CBA6F7,100:F5C2E7&height=120&section=footer" alt="" />

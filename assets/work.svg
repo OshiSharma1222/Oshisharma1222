@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="860" height="251" viewBox="0 0 860 251" role="img" aria-label="Work with me: AI agents and voice AI features, full-stack products, ML evaluation, mobile apps, open source. Give me a problem, idea, or goal, I'll help architect it, break it down, and build it.">
+  <style>
+    text { font-family: 'Fira Code', 'JetBrains Mono', 'DejaVu Sans Mono', Consolas, 'Courier New', monospace; fill: #CDD6F4; }
+    .m { fill: #CBA6F7; } .pk { fill: #F5C2E7; } .b { fill: #89B4FA; } .d { fill: #6C7086; }
+    .sub { fill: #A6ADC8; } .bold { font-weight: 700; } .it { font-style: italic; }
+    .cursor { animation: blink 1s steps(1) infinite; }
+    @keyframes blink { 50% { fill-opacity: 0; } }
+  </style>
+  <rect x="1" y="1" width="858" height="249" rx="12" fill="#1E1E2E" stroke="#45475A"/>
+  <path d="M1,13 a12,12 0 0 1 12,-12 h834 a12,12 0 0 1 12,12 v18 h-858 Z" fill="#181825"/>
+  <circle cx="22" cy="16" r="5" fill="#F38BA8"/><circle cx="38" cy="16" r="5" fill="#F9E2AF"/><circle cx="54" cy="16" r="5" fill="#A6E3A1"/>
+  
+  <text x="28" y="58" font-size="15" xml:space="preserve"><tspan class="pk bold">  &gt; </tspan><tspan class="m bold">AI agents and voice AI features</tspan>, from prototype to deployed app</text>
+  <text x="28" y="83" font-size="15" xml:space="preserve"><tspan class="pk bold">  &gt; </tspan><tspan class="m bold">Full-stack products</tspan> with Next.js, Node and FastAPI</text>
+  <text x="28" y="108" font-size="15" xml:space="preserve"><tspan class="pk bold">  &gt; </tspan><tspan class="m bold">ML evaluation</tspan>, data pipelines and model monitoring</text>
+  <text x="28" y="133" font-size="15" xml:space="preserve"><tspan class="pk bold">  &gt; </tspan><tspan class="m bold">Mobile apps</tspan> with Expo and React Native</text>
+  <text x="28" y="158" font-size="15" xml:space="preserve"><tspan class="pk bold">  &gt; </tspan><tspan class="m bold">Open source</tspan> collaboration and contributions</text>
+  <text x="28" y="195" font-size="15" xml:space="preserve">Give me a <tspan class="pk bold">problem, idea, or goal</tspan>, I'll help architect it, break it down, and build it.</text>
+  <text x="28" y="220" font-size="15" xml:space="preserve"><tspan class="m bold it">Tech-agnostic. Context-first. Results-driven.</tspan></text>
+</svg>
