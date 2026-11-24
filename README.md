@@ -59,22 +59,12 @@
 <img src="https://img.shields.io/badge/Figma-313244?style=for-the-badge&logo=figma&logoColor=CBA6F7" alt="Figma" />
 </p>
 
-<p><img src="./assets/headers/projects.svg" alt="$ ls ./projects" /></p>
+<p><img src="./assets/headers/opensource.svg" alt="$ git remote -v" /></p>
 
 <p align="center">
-  <a href="https://github.com/OshiSharma1222/Delphy"><img src="./assets/projects/delphy.svg" width="32%" alt="Delphy: voice sparring partner that only answers in questions" /></a>
-  <a href="https://github.com/OshiSharma1222/Imposter-interviewer-"><img src="./assets/projects/imposter.svg" width="32%" alt="Imposter Interviewer: voice interview practice built on real interview reports" /></a>
-  <a href="https://github.com/OshiSharma1222/underai"><img src="./assets/projects/underai.svg" width="32%" alt="UnderAI: audits insurance policy PDFs against the placement slip" /></a>
-</p>
-<p align="center">
-  <a href="https://github.com/OshiSharma1222/Veda_AI_Assignment"><img src="./assets/projects/vedaai.svg" width="32%" alt="VedaAI: reads and grades handwritten answer sheets" /></a>
-  <a href="https://github.com/OshiSharma1222/Recovery-ledger"><img src="./assets/projects/recovery.svg" width="32%" alt="Recovery Ledger: decides which failed payments and disputes are worth chasing" /></a>
-  <a href="https://github.com/OshiSharma1222/ModelPlus"><img src="./assets/projects/modelpulse.svg" width="32%" alt="ModelPulse: drift lab for ML models" /></a>
-</p>
-<p align="center">
-  <a href="https://github.com/OshiSharma1222/Tree_Time"><img src="./assets/projects/treetime.svg" width="32%" alt="Tree Time: measures tree height with the phone tilt sensor" /></a>
-  <a href="https://github.com/OshiSharma1222/Wallup"><img src="./assets/projects/wallup.svg" width="32%" alt="Wallup: your wallpaper is your to-do list" /></a>
-  <a href="https://github.com/OshiSharma1222/MuseMate"><img src="./assets/projects/musemate.svg" width="32%" alt="MuseMate: offline NFC museum guide, Smart India Hackathon 2026" /></a>
+  <a href="https://github.com/jitsi/jitsi-meet/pulls?q=is%3Apr+author%3AOshiSharma1222"><img src="./assets/opensource/jitsi.svg" width="32%" alt="Jitsi Meet: open source video conferencing, i18n and accessibility fixes" /></a>
+  <a href="https://github.com/openstreetmap/iD/pulls?q=is%3Apr+author%3AOshiSharma1222"><img src="./assets/opensource/osm.svg" width="32%" alt="OpenStreetMap iD: the in-browser map editor for OpenStreetMap" /></a>
+  <a href="https://github.com/accordproject/template-playground/pulls?q=is%3Apr+author%3AOshiSharma1222"><img src="./assets/opensource/accord.svg" width="32%" alt="Accord Project: smart legal contract templates playground" /></a>
 </p>
 
 <p><img src="./assets/headers/work.svg" alt="$ cat work-with-me.md" /></p>
