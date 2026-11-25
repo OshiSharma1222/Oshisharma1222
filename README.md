@@ -16,7 +16,7 @@ Open to internships.
 
 ---
 
-◆ **experience**
+### Experience
 
 - **Kortexity** · Software Engineer Intern · Jul 2026 to present<br/>
   Day to day I train computer vision models (DINOv3 and CNNs) for image understanding, and build the Python backend around them: REST APIs, SQLAlchemy schemas, Alembic migrations, Better Auth, and RTK rover positioning data. I also benchmark vision architectures and write up the findings so the team can decide what to use.
@@ -24,21 +24,21 @@ Open to internships.
   Built the payment checkout in Next.js, rebuilt the React Native app's core screens and navigation, added admin portal features the operations team uses every day, and set up real-time notifications with Firebase.
 - I have also done a couple of freelance projects.
 
-◆ **open source**
+### Open Source
 
 - **[Jitsi Meet](https://github.com/jitsi/jitsi-meet)**: added translation keys that were missing from the language files ([#17859](https://github.com/jitsi/jitsi-meet/pull/17859)), translated accessibility labels that were hardcoded in English ([#17881](https://github.com/jitsi/jitsi-meet/pull/17881)), and passed the missing values into two screen-reader labels ([#18401](https://github.com/jitsi/jitsi-meet/pull/18401)).
 - **[OpenStreetMap iD](https://github.com/openstreetmap/iD)**: locks the multilingual name field until a valid language is entered, so typed names stop disappearing ([#13275](https://github.com/openstreetmap/iD/pull/13275), in review).
 - **[Accord Project](https://github.com/accordproject/template-playground)**: fixed the empty Gemini model list in the template playground ([#991](https://github.com/accordproject/template-playground/pull/991)), and made the new design load the template library only once per session ([#1166](https://github.com/accordproject/template-playground/pull/1166)). Both in review.
 
-◆ **highlights**
+### Highlights
 
 - **5+ hackathon wins**: KIET Dream Space, HackMAIT (E-Swasthya), IOSD MAIT (UI/UX), HackAura (Orbix) and HackCBS (Finara).
 - **SheFi Scholar**, Season 13.
 - **Certifications**: NPTEL Java Programming, Data Structures and Algorithms in Java, and Ethical Hacking (IIT Kharagpur), plus the Winter School in Advanced Machine Learning at VIPS.
 
-◆ **how i work**
+### How I Work
 
-Write down what "done" looks like, build it, then test it in the real app, not just in the tests. I use AI coding tools, and I review every diff before it ships.
+Write down what "done" looks like, build it, then test it in the real app, not just in the tests.
 
 <br>
 
