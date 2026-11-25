@@ -39,3 +39,12 @@ Open to internships.
 ◆ **how i work**
 
 Write down what "done" looks like, build it, then test it in the real app, not just in the tests. I use AI coding tools, and I review every diff before it ships.
+
+<br>
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com/?user=OshiSharma1222&hide_border=true&background=0D1117&stroke=30363D&ring=CBA6F7&fire=F38BA8&currStreakNum=E6EDF3&currStreakLabel=CBA6F7&sideNums=E6EDF3&sideLabels=89B4FA&dates=8B949E" />
+    <img src="https://streak-stats.demolab.com/?user=OshiSharma1222&hide_border=true&background=FFFFFF&stroke=D1D9E0&ring=A285D6&fire=F38BA8&currStreakNum=1F2328&currStreakLabel=8A6BC4&sideNums=1F2328&sideLabels=4C78C9&dates=59636E" alt="GitHub contribution streak" />
+  </picture>
+</div>
